@@ -1,4 +1,4 @@
-readme_text = """# ⚙️ Infrastructure as Code + Pipeline  
+⚙️ Infrastructure as Code + Pipeline  
 Automated Deployment of Networking and Compute Resources on **Oracle Cloud Infrastructure (OCI)** using **GitHub + Terraform Cloud + Terraform IaC**  
 
 ## 📖 Project Overview  
